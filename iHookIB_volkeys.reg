@@ -1,0 +1,7 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\Software\Intermec\iHookIB_volkeys]
+"RestoreVolKeys"=dword:00000001
+"ForwardKeys"=dword:00000000
+"ClassName"="IntermecBrowser"
+
